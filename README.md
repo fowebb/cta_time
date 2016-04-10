@@ -1,5 +1,5 @@
 # cta_time
-###Rest API for Purple Line Arrival Times using the CTA Train Tracker API
+###[Workflow](https://workflow.is/) Layer for CTA Train Tracker API 
 
 ![purple line](http://www.chicago-l.org/operations/lines/images/line_maps/PurpleLine.jpg)
 
@@ -9,5 +9,3 @@
 3.  Add/remove CTA stops in "stations" dictionary ([complete list of CTA stop and map IDs](https://data.cityofchicago.org/Transportation/CTA-System-Information-List-of-L-Stops/8pix-ypme))
 4.  ???
 5.  profit
-
-Especially useful when used in conjuction with https://workflow.is/.

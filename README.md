@@ -7,5 +7,6 @@
 1.  Apply for CTA Developer API access [here](http://www.transitchicago.com/developers/traintrackerapply.aspx)
 2.  Once approved, store API access key in env.py as "CTA_API_KEY"
 3.  Add/remove CTA stops in "stations" dictionary ([complete list of CTA stop and map IDs](https://data.cityofchicago.org/Transportation/CTA-System-Information-List-of-L-Stops/8pix-ypme))
-4.  ???
-5.  profit
+4.  Host using your provider of choice (I'm using heroku)
+5.  ???
+6.  profit

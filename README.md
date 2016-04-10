@@ -1,7 +1,7 @@
 # cta_time
 ###Rest API for Purple Line Arrival Times using the CTA Train Tracker API
 
-![alt tag](http://www.chicago-l.org/operations/lines/images/line_maps/PurpleLine.jpg)
+![purple line](http://www.chicago-l.org/operations/lines/images/line_maps/PurpleLine.jpg)
 
 ##### Instructions:
 1.  Apply for CTA Developer API access [here](http://www.transitchicago.com/developers/traintrackerapply.aspx)

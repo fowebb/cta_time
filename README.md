@@ -3,6 +3,9 @@
 
 ![purple line](http://www.chicago-l.org/operations/lines/images/line_maps/PurpleLine.jpg)
 
+ 
+------------- 
+ 
 ##### Instructions:
 1.  Apply for CTA Developer API access [here](http://www.transitchicago.com/developers/traintrackerapply.aspx)
 2.  Once approved, store API access key in env.py as "CTA_API_KEY"

@@ -23,7 +23,6 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-env.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -61,3 +60,24 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Personal
+.DS_Store
+*.pyc
+env.py
+*.csv
+*.txt
+*.pdf
+*.zip
+*.rdb
+boto.cfg
+*.json
+*.tar.gz
+*.pkl
+cover
+.coverage
+*.log
+local_breaker.py
+*.xls
+*.xlsx
+celeryconfig.py

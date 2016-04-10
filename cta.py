@@ -38,7 +38,6 @@ def api_arrival(stationid):
             'name': 'Randolph/Wabash'}
     }
 
-    # station_name = str(stationid)
     if stationid not in stations.keys():
         raise Exception("Unknown station name!")
 
